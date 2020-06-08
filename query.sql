@@ -1,7 +1,7 @@
 use classicmodels;
 
 /**
-  * lấy ra tất cả trường và hành của `customers`
+  * lấy ra tất cả trường và hàng của `customers`
  */
 SELECT * FROM `customers`;
 
